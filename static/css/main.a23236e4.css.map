@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a23236e4.css","mappings":"AAAA,eACI,cAEJ,CACA,qBACI,6BAAsB,CAAtB,qBAEJ","sources":["index.css"],"sourcesContent":[".cd-transition{\r\n    transition: 0.4s;\r\n    /* border: solid 1px rgb(124, 122, 122); */\r\n}\r\n.cd-transition:hover{\r\n    transform: scale(1.02);\r\n\r\n}\r\n"],"names":[],"sourceRoot":""}
